@@ -18,3 +18,23 @@ c:\users\oerturk\documents\visual studio 2015\Projects\NhibernatePlayGround\Nhib
 c:\users\oerturk\documents\visual studio 2015\Projects\NhibernatePlayGround\NhibernatePlayGround\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 c:\users\oerturk\documents\visual studio 2015\Projects\NhibernatePlayGround\NhibernatePlayGround\bin\Debug\Domain.dll
 c:\users\oerturk\documents\visual studio 2015\Projects\NhibernatePlayGround\NhibernatePlayGround\bin\Debug\Domain.pdb
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\NhibernatePlayGround.exe.config
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\obj\Debug\NhibernatePlayGround.exe
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\obj\Debug\NhibernatePlayGround.pdb
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\NhibernatePlayGround.exe
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\NhibernatePlayGround.pdb
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\Domain.dll
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\FluentNHibernate.dll
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\HibernatingRhinos.Profiler.Appender.dll
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\Iesi.Collections.dll
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\NHibernate.dll
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\Domain.pdb
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\FluentNHibernate.pdb
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\FluentNHibernate.xml
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\HibernatingRhinos.Profiler.Appender.xml
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\Iesi.Collections.xml
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\NHibernate.xml
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\work2\FluentNHibernate-Playground\NhibernatePlayGround\obj\Debug\NhibernatePlayGround.csprojResolveAssemblyReference.cache
